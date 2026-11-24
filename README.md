@@ -1,162 +1,151 @@
-<!-- =========================
-          HEADER
-========================= -->
 
-<h1 align="center">Hi there! 👋 I'm Aishvarya Perumalsamy</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Software Engineer • Exploring Cloud & AI/ML • Building in Public
-</h3>
+# Hi, I'm Aishvarya Perumalsamy 👋
 
-<p align="center">
-I'm passionate about solving real-world problems through software and documenting every step of my learning journey.
-</p>
+### Computer Science & Engineering Student | AI/ML & Cloud Computing Enthusiast
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Learning+Cloud+Computing.;Exploring+AI+%26+Machine+Learning.;Building+Projects.;Growing+One+Commit+at+a+Time.;Always+Curious.;Always+Learning." alt="Typing SVG"/>
-</p>
+Building practical solutions, exploring intelligent systems, and learning through hands-on projects.
 
-<p align="center">
-  <a href="https://github.com/aishvarya-p">
-    <img src="https://img.shields.io/github/followers/aishvarya-p?label=Follow&style=for-the-badge&logo=github"/>
-  </a>
+[![GitHub](https://img.shields.io/badge/GitHub-aishvarya--p-181717?style=flat&logo=github)](https://github.com/aishvarya-p)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/aishvarya-perumalsamy-56388437b/)
 
-  <a href="https://www.linkedin.com/in/aishvarya-perumalsamy-56388437b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=aishvarya-p&style=for-the-badge&color=0e75b6" />
-</p>
+</div>
 
 ---
----
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-Hello! I'm Aishvarya, a Computer Science student who enjoys learning by building.
+I'm a Computer Science and Engineering student at **Sri Ramakrishna Engineering College**, passionate about using technology to solve meaningful problems.
 
-Instead of rushing through tutorials, I prefer creating projects that challenge me to understand how software works behind the scenes.
+I enjoy learning by building — turning concepts into working applications, experimenting with new technologies, and continuously strengthening my programming fundamentals.
 
-My current interests include:
+My primary areas of interest include:
 
-- ☁️ Cloud Computing
 - 🤖 Artificial Intelligence & Machine Learning
-- ☕ Java
-- 🧩 Data Structures & Algorithms
-- 🌐 Full Stack Development
-- 🌍 Open Source
+- ☁️ Cloud Computing and Cloud-Native Technologies
+- 💻 Software Development and Problem Solving
+- 🌐 Full-Stack Development
+- 🔍 Data Structures and Algorithms
 
-I'm still early in my journey, and this GitHub is where I document my progress, experiments, and projects as I continue learning.
-
----
-
-# 🌱 What I'm Learning Right Now
-
-```text
-☕ Java
-
-🧩 Data Structures & Algorithms
-
-☁️ Cloud Computing Fundamentals
-
-🤖 Machine Learning Fundamentals
-
-🌐 Full Stack Development
-
-🌍 Open Source
-```
+I believe that meaningful progress comes from understanding the fundamentals, building consistently, and learning from every project.
 
 ---
 
-# 🚀 Current Projects
+## 🚀 Featured Projects
 
-## 🧬 AI Mutation Prediction
+### 🧬 AI-Based Mutation Impact Prediction
+An AI/ML project focused on predicting the functional and clinical impact of genetic variants.
 
-A machine learning project focused on predicting the impact of genetic mutations.
+- Explores the classification of genetic variants using machine learning.
+- Works with publicly available genetic variation and clinical annotation data.
+- Aims to make mutation analysis more accessible through an intelligent prediction system.
 
-**Status:** 🚧 Building
+**Tech Stack:** Python, Machine Learning, FastAPI, Pandas
+
+[View Repository](https://github.com/aishvarya-p/mutation-impact-ai)
 
 ---
 
-# 📚 Technologies I'm Exploring
+### 💊 Smart Medicine Box
+An IoT-based medicine dispensing system designed to support scheduled medication reminders and dispensing.
 
-### Languages
+- Uses an ESP32 microcontroller for system control.
+- Integrates RTC-based scheduling and servo-assisted dispensing.
+- Provides LCD and buzzer notifications.
+- Includes missed-dose detection and status monitoring.
 
+**Tech Stack:** ESP32, Embedded C/C++, RTC, LCD, Servo Motor, IoT
+
+[View Repository](https://github.com/aishvarya-p/smart-medicine-box)
+
+---
+
+### 🏨 Hotel Management System
+A full-stack application designed to manage hotel operations and administrative workflows.
+
+- Implements room and hotel management functionality.
+- Uses a backend architecture with REST APIs.
+- Integrates a database for persistent data management.
+- Includes an administrative dashboard.
+
+**Tech Stack:** React, Spring Boot, REST APIs, MySQL
+
+[View Repository](https://github.com/aishvarya-p/Hotel-Management-System)
+
+---
+
+### 🛡️ Network Intrusion Detection System
+A cybersecurity-oriented project exploring network threat detection using machine learning and rule-based techniques.
+
+- Combines machine learning and rule-based detection.
+- Explores stateful threat correlation.
+- Includes a dashboard for security monitoring.
+
+**Tech Stack:** Python, Machine Learning, React
+
+[View Repository](https://github.com/aishvarya-p/network-intrusion-detection-system)
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql"/>
+  <img src="https://skillicons.dev/icons?i=python,c,java,js" />
 </p>
 
-### Currently Exploring
-
+### Technologies & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=numpy,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,spring,mysql,git,github,vscode" />
 </p>
 
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
-</p>
+### Areas of Interest
+- Artificial Intelligence & Machine Learning
+- Cloud Computing
+- Internet of Things
+- Backend Development
+- Data Structures & Algorithms
 
 ---
 
-# 🎯 My Current Focus
+## 🌱 Currently Learning
 
-- Build projects consistently
-- Strengthen programming fundamentals
-- Learn by experimenting
-- Understand cloud technologies
-- Explore AI & Machine Learning
-- Contribute to Open Source in the future
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aishvarya-p&theme=github-dark&hide_border=true"/>
-</p>
+- Strengthening Data Structures and Algorithms
+- Exploring Machine Learning concepts and model development
+- Learning Cloud Computing fundamentals
+- Improving backend development and API design
+- Building more structured and maintainable software projects
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishvarya-p&theme=github-dark&hide_border=true"/>
-</p>
+## 📊 GitHub Overview
 
----
-# 🌍 Let's Connect
+<div align="center">
 
-<p>
+<img src="https://github-readme-stats.vercel.app/api?username=aishvarya-p&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
 
-<a href="https://www.linkedin.com/in/aishvarya-perumalsamy-56388437b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishvarya-p&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
----
+<img src="https://streak-stats.demolab.com?user=aishvarya-p&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=aishvarya-p&label=Profile+Views&color=0e75b6"/>
-
-</p>
+</div>
 
 ---
 
-# 💭 Philosophy
+## 🤝 Let's Connect
 
-> **"Learning isn't about knowing everything. It's about becoming a little better every day."**
+I'm always interested in connecting with fellow developers, students, and technology enthusiasts.
+
+- **GitHub:** [aishvarya-p](https://github.com/aishvarya-p)
+- **LinkedIn:** [Aishvarya Perumalsamy](https://www.linkedin.com/in/aishvarya-perumalsamy-56388437b/)
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
+### Thanks for visiting my profile! 💙
 
-This GitHub isn't a showcase of everything I know.
-
-It's a record of everything I'm learning.
-
-⭐ If something here interests you, feel free to explore my repositories.
+*Learning. Building. Improving — one project at a time.*
 
 </div>
